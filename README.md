@@ -1,6 +1,6 @@
-**【[源GitHub仓库](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov)】 | 【[Gitee镜像库](https://gitee.com/xiangyuecn/AreaCity-JsSpider-StatsGov)】如果本文档图片没有显示，请手动切换到Gitee镜像库阅读文档。**
+!*【[源GitHub仓库](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov)】 | 【[Gitee镜像库](https://gitee.com/xiangyuecn/AreaCity-JsSpider-StatsGov)】如果本文档图片没有显示，请手动切换到Gitee镜像库阅读文档。**
 
-# :open_book:省市区数据采集并标注拼音、坐标和边界范围
+  :open_book:省市区数据采集并标注拼音、坐标和边界范围
 
 - [【在线测试和预览】省市区乡镇四级行政区划数据](https://xiangyuecn.gitee.io/areacity-jsspider-statsgov/)：支持在线生成JSON、多级联动js；
 - [【在线测试和预览】ECharts Map四级下钻在线测试和预览+代码生成](https://xiangyuecn.gitee.io/areacity-jsspider-statsgov/assets/geo-echarts.html)：坐标边界范围在线测试和预览；
@@ -197,11 +197,11 @@ polygon|string|行政区域边界，高德地图`GCJ-02`火星坐标系。格式
 
 行政区划数据在线转换+多级联动：
 
-![](assets/tools.png)
+*[](assets/tools.png)
 
 ECharts + 高德地图四级下钻：
 
-![](assets/tools_map.png)
+#[](assets/tools_map.png)
 
 
 
@@ -432,3 +432,4 @@ chrome 控制台，当前数据采集使用的chrome版本：`Chrome 97` + `Chro
 您也可以使用支付宝或微信打赏作者：
 
 ![](https://xiangyuecn.gitee.io/recorder/assets/donate-alipay.png)  ![](https://xiangyuecn.gitee.io/recorder/assets/donate-weixin.png)
+ 
